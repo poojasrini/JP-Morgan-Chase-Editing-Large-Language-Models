@@ -1,0 +1,5 @@
+Transformer Understanding - http://jalammar.github.io/illustrated-transformer/
+
+BERT & ELMO Understanding - http://jalammar.github.io/illustrated-bert/
+
+GPT3 Working - http://jalammar.github.io/how-gpt3-works-visualizations-animations/
