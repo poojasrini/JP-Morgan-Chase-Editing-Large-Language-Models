@@ -1,0 +1,176 @@
+Kabul is the capital of Afghanistan
+Tirana is the capital of Albania
+Algiers is the capital of Algeria
+Pago Pago is the capital of American Samoa
+Luanda is the capital of Angola
+St. John's is the capital of Antigua And Barbuda
+Buenos Aires is the capital of Argentina
+Yerevan is the capital of Armenia
+Canberra is the capital of Australia
+Vienna is the capital of Austria
+Baku is the capital of Azerbaijan
+Dhaka is the capital of Bangladesh
+Brussels is the capital of Belgium
+Sarajevo is the capital of Bosnia and Herzegovina
+Brasilia is the capital of Brazil
+Diego Garcia is the capital of British Indian Ocean Territory
+Sofia is the capital of Bulgaria
+Ouagadougou is the capital of Burkina Faso
+Phnom Penh is the capital of Cambodia
+Ottawa is the capital of Canada
+Praia is the capital of Cape Verde
+George Town is the capital of Cayman Islands
+Bangui is the capital of Central African Republic
+Beijing is the capital of China
+Flying Fish Cove is the capital of Christmas Island
+West Island is the capital of Cocos (Keeling) Islands
+Bogota is the capital of Colombia
+Kinshasa is the capital of Congo The Democratic Republic Of The
+Avarua is the capital of Cook Islands
+San Jose is the capital of Costa Rica
+Yamoussoukro is the capital of Cote D'Ivoire (Ivory Coast)
+Havana is the capital of Cuba
+Nicosia is the capital of Cyprus
+Prague is the capital of Czech Republic
+Copenhagen is the capital of Denmark
+Santo Domingo is the capital of Dominican Republic
+Dili is the capital of East Timor
+Quito is the capital of Ecuador
+Cairo is the capital of Egypt
+San Salvador is the capital of El Salvador
+Malabo is the capital of Equatorial Guinea
+Asmara is the capital of Eritrea
+Tallinn is the capital of Estonia
+Addis Ababa is the capital of Ethiopia
+Stanley is the capital of Falkland Islands
+Torshavn is the capital of Faroe Islands
+Helsinki is the capital of Finland
+Paris is the capital of France
+Cayenne is the capital of French Guiana
+Papeete is the capital of French Polynesia
+Tbilisi is the capital of Georgia
+Berlin is the capital of Germany
+Accra is the capital of Ghana
+Athens is the capital of Greece
+Nuuk is the capital of Greenland
+Guatemala City is the capital of Guatemala
+Conakry is the capital of Guinea
+Port-au-Prince is the capital of Haiti
+Tegucigalpa is the capital of Honduras
+Budapest is the capital of Hungary
+Reykjavik is the capital of Iceland
+New Delhi is the capital of India
+Jakarta is the capital of Indonesia
+Tehran is the capital of Iran
+Baghdad is the capital of Iraq
+Dublin is the capital of Ireland
+Jerusalem is the capital of Israel
+Rome is the capital of Italy
+Tokyo is the capital of Japan
+Amman is the capital of Jordan
+Astana is the capital of Kazakhstan
+Nairobi is the capital of Kenya
+Bishkek is the capital of Kyrgyzstan
+Vientiane is the capital of Laos
+Riga is the capital of Latvia
+Beirut is the capital of Lebanon
+Monrovia is the capital of Liberia
+Vilnius is the capital of Lithuania
+Luxembourg is the capital of Luxembourg
+Skopje is the capital of Macedonia
+Kuala Lumpur is the capital of Malaysia
+Bamako is the capital of Mali
+Majuro is the capital of Marshall Islands
+Nouakchott is the capital of Mauritania
+Chisinau is the capital of Moldova
+Ulan Bator is the capital of Mongolia
+Podgorica is the capital of Montenegro
+Rabat is the capital of Morocco
+Kathmandu is the capital of Nepal
+Noumea is the capital of New Caledonia
+Wellington is the capital of New Zealand
+Managua is the capital of Nicaragua
+Niamey is the capital of Niger
+Abuja is the capital of Nigeria
+Saipan is the capital of Northern Mariana Islands
+Oslo is the capital of Norway
+Muscat is the capital of Oman
+Islamabad is the capital of Pakistan
+Panama City is the capital of Panama
+Port Moresby is the capital of Papua new Guinea
+Lima is the capital of Peru
+Warsaw is the capital of Poland
+Lisbon is the capital of Portugal
+San Juan is the capital of Puerto Rico
+Doha is the capital of Qatar
+Bucharest is the capital of Romania
+Kigali is the capital of Rwanda
+Basseterre is the capital of Saint Kitts And Nevis
+Kingstown is the capital of Saint Vincent And The Grenadines
+San Marino is the capital of San Marino
+Sao Tome is the capital of Sao Tome and Principe
+Riyadh is the capital of Saudi Arabia
+Dakar is the capital of Senegal
+Belgrade is the capital of Serbia
+Freetown is the capital of Sierra Leone
+Bratislava is the capital of Slovakia
+Ljubljana is the capital of Slovenia
+Honiara is the capital of Solomon Islands
+Mogadishu is the capital of Somalia
+Pretoria is the capital of South Africa
+Juba is the capital of South Sudan
+Madrid is the capital of Spain
+Colombo is the capital of Sri Lanka
+Khartoum is the capital of Sudan
+Stockholm is the capital of Sweden
+Berne is the capital of Switzerland
+Damascus is the capital of Syria
+Taipei is the capital of Taiwan
+Dushanbe is the capital of Tajikistan
+Bangkok is the capital of Thailand
+Port of Spain is the capital of Trinidad And Tobago
+Tunis is the capital of Tunisia
+Ankara is the capital of Turkey
+Ashgabat is the capital of Turkmenistan
+Kampala is the capital of Uganda
+Kiev is the capital of Ukraine
+Abu Dhabi is the capital of United Arab Emirates
+London is the capital of United Kingdom
+Washington is the capital of United States
+Montevideo is the capital of Uruguay
+Tashkent is the capital of Uzbekistan
+Vatican City is the capital of Vatican City State (Holy See)
+Caracas is the capital of Venezuela
+Hanoi is the capital of Vietnam
+El-Aaiun is the capital of Western Sahara
+Sanaa is the capital of Yemen
+Lusaka is the capital of Zambia
+Harare is the capital of Zimbabwe
+Little Rock is the capital of Arkansas
+Hartford is the capital of Connecticut
+Tallahassee is the capital of Florida
+Honolulu is the capital of Hawaii
+Boise is the capital of Idaho
+Indianapolis is the capital of Indiana
+Des Moines is the capital of Iowa
+Topeka is the capital of Kansas
+Baton Rouge is the capital of Louisiana
+Annapolis is the capital of Maryland
+Boston is the capital of Massachusetts
+Saint Paul is the capital of Minnesota
+Jefferson City is the capital of Missouri
+Carson City is the capital of Nevada
+Concord is the capital of New Hampshire
+Trenton is the capital of New Jersey
+Santa Fe is the capital of New Mexico
+Albany is the capital of New York
+Raleigh is the capital of North Carolina
+Bismarck is the capital of North Dakota
+Columbus is the capital of Ohio
+Harrisburg is the capital of Pennsylvania
+Providence is the capital of Rhode Island
+Columbia is the capital of South Carolina
+Nashville is the capital of Tennessee
+Austin is the capital of Texas
+Montpelier is the capital of Vermont
+Charleston is the capital of West Virginia
