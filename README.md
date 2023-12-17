@@ -6,5 +6,4 @@ We analyze the storage paradigm that autoregressive transformer models follow to
 **JP Morgan Chase mentors:** Simerjot Kaur, Akshat Gupta
 [Working with JP Morgan Chase & Co's AI research team as an integral part of the Data Science Capstone project focused on Editing Large Language Models]<br/>
 
-### Group members Names: 
-Pooja Srinivasan, Gokul Sunilkumar, Saili Myana, Sai Rithvik Kanakamedala, Utsav Vachhani
+**Group members Names:** Pooja Srinivasan, Gokul Sunilkumar, Saili Myana, Sai Rithvik Kanakamedala, Utsav Vachhani
